@@ -1,0 +1,8 @@
+project:
+  name: buildr-test-express
+  preset: express-mongodb
+
+deployment:
+  domain: buildr-test-express.001746.xyz
+  repository: https://github.com/rosiinante-alt/buildr-test-express
+  branch: main
